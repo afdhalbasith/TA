@@ -1,0 +1,1 @@
+Pengenalan seseorang melalui iris mata merupakan teknik pengenalan pola yang digunakan dalam aplikasi biometrik karena iris mata merupakan bagian yang unik pada setiap orang. Pengenalan ini dilakukan dengan menggunakan metode klasifikasi Support Vector Machine dan metode Hamming distance yang menggunakan Wavelet Haar dan Log-Gabor Filter sebagai ekstraksi fiturnya.
